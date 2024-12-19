@@ -17,14 +17,10 @@ Add ![Header](<insert header image>)
 ### Mission
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
-### Languages
+### Skills
 [![Languages](https://skillicons.dev/icons?i=python,c,js,ts,html,css,regex)](https://skillicons.dev)
-
-### Technologies
-[![Languages](https://skillicons.dev/icons?i=nodejs,npm,git,angular,react,styledcomponents,d3,express,prisma,graphql,flask,postgres,windows,apple,linux)](https://skillicons.dev)
-
-### Tools
-[![Languages](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=nodejs,npm,git,angular,react,styledcomponents,d3,express,prisma,graphql,flask,postgres)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure)](https://skillicons.dev)
