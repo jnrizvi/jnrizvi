@@ -19,7 +19,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### Skills
 [![Languages](https://skillicons.dev/icons?i=python,c,js,ts,html,css,regex)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=nodejs,npm,git,angular,react,styledcomponents,d3,express,prisma,graphql,flask,postgres)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,flask,nodejs,npm,express,prisma,graphql,postgres,angular,react,styledcomponents,d3)](https://skillicons.dev)
 [![Tools](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
 
 ### Learning
