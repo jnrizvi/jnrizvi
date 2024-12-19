@@ -7,6 +7,7 @@ Add ![Header](<insert header image>)
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
+    Also consider a lego stopmotion gif
 
 <div>
     <img src="./assets/about_jawad.gif" alt="About Me Terminal GIF"/>
@@ -23,7 +24,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 [![Tools](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,githubactions)](https://skillicons.dev)
 
 ### Connect with me!
 <p align="left">
