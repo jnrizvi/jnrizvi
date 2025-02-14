@@ -24,7 +24,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 [![Tools](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
 
 ### Learning
-[![Learning](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,githubactions)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=powershell,cs,dotnet,visualstudio,azure,githubactions)](https://skillicons.dev)
 
 ### Connect with me!
 <p align="left">
