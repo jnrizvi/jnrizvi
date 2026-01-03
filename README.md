@@ -19,9 +19,9 @@ Add ![Header](<insert header image>)
 I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
 ### Skills
-[![Languages](https://skillicons.dev/icons?i=python,c,js,ts,html,css,regex)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=git,flask,nodejs,npm,express,prisma,graphql,postgres,angular,react,styledcomponents,d3)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=bash,vim,vscode,github,bitbucket,postman,heroku,docker,mongodb,figma,stackoverflow)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,nodejs,npm,prisma,graphql,postgres,angular,react,styledcomponents)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,vscode,github,bitbucket,postman,heroku,figma,stackoverflow)](https://skillicons.dev)
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=php,laravel,tailwind,vite,phpstorm)](https://skillicons.dev)
