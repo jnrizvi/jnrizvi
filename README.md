@@ -20,8 +20,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ### Skills
 [![Languages](https://skillicons.dev/icons?i=python,js,ts,html,css)](https://skillicons.dev)
-[![Technologies](https://skillicons.dev/icons?i=git,nodejs,npm,prisma,graphql,postgres,angular,react,styledcomponents)](https://skillicons.dev)
-[![Tools](https://skillicons.dev/icons?i=bash,vscode,github,bitbucket,postman,heroku,figma,stackoverflow)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,nodejs,prisma,graphql,postgres,angular,react,styledcomponents)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=bash,vscode,github,bitbucket,postman,heroku)](https://skillicons.dev)
 
 ### Learning
 [![Learning](https://skillicons.dev/icons?i=php,laravel,tailwind,vite,phpstorm)](https://skillicons.dev)
